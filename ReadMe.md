@@ -32,3 +32,7 @@
   Licensed under the [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC) license
   ## Video Link
   https://youtu.be/pPPo7QfHo7c
+
+  https://pinaraktas.github.io/ReadMe-Generator/
+  https://github.com/PinarAktas/ReadMe-Generator
+
